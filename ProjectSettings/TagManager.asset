@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlackMask
+  - Text_2
+  - Image_4
+  - Text_3
+  - Image_6
+  - SmallPanel
+  - BigPanel
+  - BigGrid
+  - PlayText
+  - TickBox_7
+  - TickBox_2
+  - TickBox_1
+  - TickBox_5
+  - Image_1
+  - Image_2
+  - Image_3
+  - PlayButton
+  - Image_7
+  - TinyPanel
+  - Image_5
+  - SmallGrid
+  - TransferManager
+  - TinyGrid
+  - TickBox_4
+  - RayMask
+  - TickBox_3
+  - Text_1
+  - TickBox_6
+  - Text_4
+  - TickBox_8
+  - TickBox_9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
