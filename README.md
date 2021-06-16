@@ -1,2 +1,2 @@
 # NHIE
-Never Have I Ever game for IOS made with Unity
+Old "Never Have I Ever" game for IOS made with Unity.
